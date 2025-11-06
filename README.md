@@ -1,4 +1,4 @@
-# Resume - Free Next.js Resume Website Template
+# Lauren Simonson - Free Next.js Resume Website Template
 #### Preview
 
  - [Demo](https://themewagon.github.io/Resume-Nextjs/)
